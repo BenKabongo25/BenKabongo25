@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @BenKabongo25
 - 👀 I’m interested in programming
 - 🌱 Currently I am a student at the Sorbonne University
-- 💞️ I’m looking to collaborate on mobile applications or AI
+- 💞️ I’m looking to collaborate on data science or AI
 - 📫 I can be reached at kabongo.ben025@gmail.com
 
 <!---
