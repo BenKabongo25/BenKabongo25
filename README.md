@@ -1,10 +1,5 @@
-- 👋 Hello, I’m @BenKabongo25
-- 👀 I’m interested in programming
-- 🌱 Currently I am a student at the Sorbonne University
-- 💞️ I’m looking to collaborate on data science or AI
+- 👋 Hello, I'm Ben Kabongo
+- 👀 I'm interested in AI, ML, DL, NLP
+- 🌱 Currently, I'm a student in M2 Mathématiques Vision Apprentissage (MVA) at ENS Paris-Saclay.
+- 💞️ I'm looking to collaborate on IA, ML, DL, NLP
 - 📫 I can be reached at kabongo.ben025@gmail.com
-
-<!---
-BenKabongo25/BenKabongo25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
