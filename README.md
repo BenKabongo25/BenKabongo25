@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Ben Kabongo
-- 👀 I'm interested in AI, ML, DL, NLP
-- 🌱 Currently, I'm a student in M2 Mathématiques Vision Apprentissage (MVA) at ENS Paris-Saclay.
-- 💞️ I'm looking to collaborate on IA, ML, DL, NLP
+- 👀 I'm interested in NLP, Recommender Systems, Machine and Deep Learning.
+- 🌱 I'm starting a PhD soon on Recommender Systems and NLP.
+- 💞️ I'm looking to collaborate on Efficient and Explainable Multimodal Recommender Systems.
 - 📫 I can be reached at kabongo.ben025@gmail.com
