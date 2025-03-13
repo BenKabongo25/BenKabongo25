@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Ben Kabongo
-- 👀 I'm interested in NLP, Recommender Systems, Machine and Deep Learning.
-- 🌱 I'm starting a PhD soon on Recommender Systems and NLP.
-- 💞️ I'm looking to collaborate on Efficient and Explainable Multimodal Recommender Systems.
+- 👀 I'm interested in NLP, LLMs, Recommender Systems, Information Retrieval, Machine and Deep Learning.
+- 🌱 I'm starting a PhD soon on Recommender Systems/Information Retrieval and NLP.
+- 💞️ I'm looking to collaborate on Recommender Systems, Information Retrieval, Large Language Models, Personalization, Multimodality.
 - 📫 I can be reached at kabongo.ben025@gmail.com
